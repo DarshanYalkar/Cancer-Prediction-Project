@@ -1,1 +1,1 @@
-# Cancer-Detection-Project
+# Cancer-Prediction-Project
